@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">TV Series Watchlist</string>
+    <string name="series_name">Series Name</string>
+    <string name="series_year">Year</string>
+    <string name="series_genre">Genre</string>
+    <string name="series_rating">Rating</string>
+    <string name="detail">Detail</string>
+    <string name="dev_name">Warren Gerald Polandra</string>
+    <string name="dev_email"><u>warren.polandra@gmail.com</u></string>
+    <string name="dev_linkedin"><a href="https://www.linkedin.com/in/warren-gerald-polandra-a21b07206/">Linkedin.com</a></string>
+    <string name="dev_github"><a href="https://github.com/warrenpolandra">github.com/warrenpolandra</a></string>
+    <string name="dev_instagram"><a href="https://www.instagram.com/warren_polandra">instagram.com/warren_polandra</a></string>
+    <string name="dev_origin">Denpasar, Bali</string>
+    <string name="dev_institution">Institut Teknologi Sepuluh Nopember</string>
+    <string name="dev_major">S1 Informatics Engineering</string>
+    <string name="dev_birthdate">February 3<font size="10"><sup>rd</sup></font> 2003</string>
+    <string name="email">Email</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="github">Github</string>
+    <string name="instagram">Instagram</string>
+    <string name="institution">Institution</string>
+    <string name="major">Major</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="release">Release:</string>
+    <string name="genre">Genre:</string>
+    <string name="synopsis">Synopsis:</string>
+    <string name="rating">Rating:</string>
+    <string name="back">back</string>
+    <string name="profile">developer profile</string>
+    <string name="share">SHARE</string>
+    <string name="like">Like</string>
+
+    <!-- Data -->
+    <string-array name="seriesNames">
+        <item>Attack on Titan</item>
+        <item>Horimiya</item>
+        <item>Love is War</item>
+        <item>My Dress Up Darling</item>
+        <item>Spy X Family</item>
+        <item>Violet Evergarden</item>
+        <item>Jujutsu Kaisen 0</item>
+        <item>Kimi No Nawa</item>
+        <item>A Silent Voice</item>
+        <item>A Whisker Away</item>
+    </string-array>
+
+    <integer-array name="seriesYear">
+        <item>2013</item>
+        <item>2021</item>
+        <item>2019</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2020</item>
+    </integer-array>
+
+    <string-array name="seriesGenre">
+        <item>Action-Thriller</item>
+        <item>Romance-Comedy</item>
+        <item>Romance-Comedy</item>
+        <item>Romance-Comedy</item>
+        <item>Action-Comedy</item>
+        <item>Romance-Drama</item>
+        <item>Mystery-Action</item>
+        <item>Romance-Fantasy</item>
+        <item>Romance-Drama</item>
+        <item>Romance-Fantasy</item>
+    </string-array>
+
+    <string-array name="seriesDetails">
+        <item>Set in a post-apocalyptic world where the remains of humanity live behind walls protecting them from giant humanoid Titans, Attack on Titan follows protagonist Eren Jaeger, along with friends Mikasa Ackerman and Armin Arlert. When a Colossal Titan breaches the wall of their hometown, Titans destroy the city and eat Eren\'s mother. Vowing vengeance, Eren joins the elite Survey Corps, a group of soldiers who fight against Titans. Attack on Titan chronicles Eren\'s journey with the Survey Corps as they fight against the Titans while investigating their origin and history.</item>
+        <item>Kyouko Hori seems like an average teenage girl, but she has a different side outside of school that she wants no one else to ever find out about. Brought up in a household where both her parents are absent from working, she needs to take care of the house and her little brother, unable to lead a normal social life. Likewise, there is her classmate Izumi Miyamura, who has a different side out of school that remains hidden from others. When the two meet unexpectedly, they discover each others\' secrets and develop a special friendship.</item>
+        <item>In the senior high school division of Shuchiin Academy, student council president Miyuki Shirogane and vice president Kaguya Shinomiya appear to be a perfect match. Kaguya is the daughter of a wealthy conglomerate family, and Miyuki is the top student at the school and well-known across the prefecture. Although they like each other, they are too proud to confess their love, as they believe whoever does so first would lose. The story follows their many schemes to make the other one confess or at least show signs of affection.</item>
+        <item>Wakana Gojo is a first-year high school student who dreams of becoming a hina doll craftsman. One day during his first semester, his popular classmate, the beautiful Marin Kitagawa whom he has a crush on, sees him making doll costumes in the school\'s sewing room. Kitagawa, who has wanted to cosplay for a while and has observed Gojo\'s skill in sewing, asks him to create the costume of a character from a video game that she adores. Even though Gojo has no experience making a costume on a human scale, he is inspired by Kitagawa\'s tenacity and agrees to make one for her.</item>
+        <item>In order to maintain the state of peace between the rival nations of Westalis and Ostania, a Westalian agent code-named \"Twilight\" is tasked with spying on Donovan Desmond, leader of the National Unity Party within Ostania. However, due to Desmond being notoriously reclusive, the only way Twilight can get close to him is to enroll a child in the same private school as Desmond\'s sons and pose as a fellow parent. To accomplish this and present the image of a happy family, he creates the alias of Loid Forger, adopts a young orphan girl named Anya, and marries a woman named Yor Briar. However, unbeknownst to him Anya can read minds and Yor is in fact a professional assassin. Neither Loid nor Yor are aware of each other\'s true identities, or that Anya knows their true professions. The family later takes in a dog with precognitive abilities whom they name Bond. Despite these unknown factors and Twilight\'s occasional lapses of common sense due to years of being a spy, he must learn to play the role of the perfect father and husband in order to carry out his mission.</item>
+        <item>The story revolves around Auto Memory Dolls. There was a machine invented as a prototype for the typewriter. It was originally made by Professor Orlando, the authority on letterpress printing and a researcher of mechanical dolls. His wife, Molly, was a novelist, but she became blind and could not write anymore. Dr Orlando then created the first Auto-Memories Doll for her, meant to register everything said by a human voice. In the present time, the term refers to the industry of writing for others. The story follows Violet Evergarden\'s journey of reintegrating back into society after the war is over as she is no longer a soldier, and her search for her life\'s purpose in order to understand the last words her mentor and guardian, Major Gilbert, had said to her: \"I love you.\"</item>
+        <item>Yuta Okkotsu is haunted by the spirit of his childhood friend Rika, who died in a tragic traffic accident. Her spirit no longer appears as the sweet girl he called his beloved. Instead, her spirit has been cursed and she manifests as a monstrous entity who protects him against his will. Unable to control Rika\'s immense power, Yuta is helpless to stop the bloodshed caused by his curse. As a result, Yuta is apprehended by Jujutsu Sorcerers, secret guardians of the world who are trained to combat Cursed Spirits like Rika. Yuta wishes to die in complete isolation so no one else can get hurt, but Satoru Gojo offers him a different path. Gojo has Yuta join Jujutsu High, where he studies with other sorcerers in training in order to control Rika in hopes of helping other people. Now a first-year, Yuta learns Jujutsu and combat arts alongside his new peers: Maki Zenin, a Cursed Tools user, Toge Inumaki, a Cursed Speech user, and Panda, a seemingly talking panda bear. Thanks to connections made with friends and finding his place at Jujutsu High, Yuta begins to gain the confidence to feel alive. He even begins to become comfortable with his abilities. However, as the training progresses Yuta learns that the dangers of the Jujutsu World go far beyond that of evil spirits.
+        </item>
+        <item>A comet appears and mysteriously affects and connects the lives of two teenagers of the same age, a boy in the big, bustling city of Tokyo and a girl in a country village where life is slow but idyllic. They find for unknown reasons, they wake up in each other\'s bodies for weeks at a time. At first, they both think these experiences are just vivid dreams, but when the reality of their situations sinks in, they learn to adjust and even enjoy it. Soon they start to communicate and try to leave notes about who they are and what they are doing. But as they discover more about each other and the other\'s life, they uncover some disturbing hints that their distance is more than just physical and tragedy haunts them.</item>
+        <item>Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again - until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late?</item>
+        <item>Miyo Sasaki is a weird second-year junior high student, who falls in love with her classmate Kento Hinode. Muge tries to make Kento notice her every day, but all in vain. Nevertheless, while carrying a secret she can tell no one, Muge continues to pursue Kento. Muge discovers a magic mask that allows her to transform into a cat, however, there is also a probability that she might never become human again, if she continues using the mask.</item>
+    </string-array>
+
+    <integer-array name="seriesImages">
+        <item>@drawable/attack_on_titan</item>
+        <item>@drawable/horimiya</item>
+        <item>@drawable/love_is_war</item>
+        <item>@drawable/my_dress_up_darling</item>
+        <item>@drawable/spy_x_family</item>
+        <item>@drawable/violet_evergarden</item>
+        <item>@drawable/jujutsu_kaisen_0</item>
+        <item>@drawable/kimi_no_nawa</item>
+        <item>@drawable/a_silent_voice</item>
+        <item>@drawable/a_whisker_away</item>
+    </integer-array>
+
+    <string-array name="seriesRating">
+        <item>8.81</item>
+        <item>8.21</item>
+        <item>9.12</item>
+        <item>8.32</item>
+        <item>8.77</item>
+        <item>8.93</item>
+        <item>8.51</item>
+        <item>8.86</item>
+        <item>8.91</item>
+        <item>7.31</item>
+    </string-array>
+
+    <string-array name="seriesLink">
+        <item>https://myanimelist.net/anime/16498/Shingeki_no_Kyojin?q=atta&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/42897/Horimiya</item>
+        <item>https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen</item>
+        <item>https://myanimelist.net/anime/48736/Sono_Bisque_Doll_wa_Koi_wo_Suru?q=my%20dress&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/50265/Spy_x_Family?q=spy&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/33352/Violet_Evergarden?q=VIole&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/48561/Jujutsu_Kaisen_0_Movie?q=jujutsu%20kaisen&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/32281/Kimi_no_Na_wa?q=kimi%20no&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/28851/Koe_no_Katachi?q=a%20silent&amp;cat=anime</item>
+        <item>https://myanimelist.net/anime/41168/Nakitai_Watashi_wa_Neko_wo_Kaburu?q=a%20whisker&amp;cat=anime</item>
+    </string-array>
+
+</resources>
