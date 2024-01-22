@@ -1,4 +1,4 @@
-# Submission Dicoding: Belajar Membuat Aplikasi Android untuk Pemula
+# Android Movie Watchlist Application
 Submission kelas Dicoding: Belajar Membuat Aplikasi Android untuk Pemula. Membuat aplikasi yang dapat menampilkan list item pada halaman Utama menggunakan RecycleView, halaman Detail yang dapat dibuka setelah salah satu item pada halaman Utama dipilih, dan halaman About yang berisi tentang identitas dari developer.,
 
 ## Fitur Aplikasi
